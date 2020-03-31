@@ -1,0 +1,57 @@
+
+
+#gameTitle{
+  font-size: 6rem;
+  margin: 5%;
+  color: #5F4B8BFF;
+}
+.main{
+  background-color: #E69A8DFF;
+  text-align: center;
+}
+/* .btn{
+  margin: 25px;
+  height: 200px;
+  width: 200px;
+  border-radius: 20%;
+} */
+.buttton{
+  margin: 25px;
+  height: 150px;
+  width: 150px;
+  border-radius: 20%;
+  border: 0;
+}
+/* .container-fluid{
+  padding-left: 15%;
+  padding-right: 15%;
+} */
+.row{
+  justify-content: center;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+.black{
+  background-color: black;
+}
+.blue{
+  background-color: blue;
+}
+.red{
+  background-color: red;
+}
+.green{
+  background-color: green;
+}
+.yellow{
+  background-color: yellow;
+}
+.purple{
+  background-color: purple;
+}
+.pressed{
+  background-color: grey;
+}
